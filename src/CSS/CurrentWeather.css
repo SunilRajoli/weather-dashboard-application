@@ -1,0 +1,25 @@
+.current-weather-container {
+    background-color: transparent;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px 2px rgba(25, 25, 24, 0.856);
+    margin-bottom: 20px;
+    padding-left: 10%;
+    margin-top: 20px;
+}
+
+.current-weather-error {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.current-weather-loading {
+    color: #333;
+    font-style: italic;
+}
+
+.temperature {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
